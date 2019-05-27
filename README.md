@@ -1,6 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
 ## Available Scripts
+
+### Problem
+A set of 32 teams with name, in whic 8 teams are local Champions. Display teams in a group of 4 each, where each group contains a local champion team. Each time page is refreshed it shows fresh groups of teams.
+
+### ALgorithms created
+1. shuffle data of 32 elements stored in array
+2. adding countries in data array.
+3. sorting teams on the basis of local Champion and not local chamption.
+4. Arrange data in respected manner to be shown.
+5. creating chunks of array in the set of 4 elements each. Total 8 groups
+
 
 In the project directory, you can run:
 
